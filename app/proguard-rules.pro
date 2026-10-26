@@ -1,0 +1,1 @@
+-keep class org.salt.savannah.security.** { *; }
